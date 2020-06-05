@@ -1,13 +1,13 @@
 # how-to-work-with-people-to-do-things
 If you had the tools to build the best possible of all worlds, how would you use them right now?
 
-*What is this?*
+.h1 What is this?
 This is a set of tools that humans can use to create a better world, here, now, with the resources we find around us.
 
-*Who can use this?* 
+**Who can use this?** 
 You can use these tools and, like any other ability or freedom you have, your power using them grows with experience and grows with the resources you are able to use. 
 
-*Is this tool equal and inclusive?*
+ *Is this tool equal and inclusive?*
 No. 
 People are not equal in their privilege.  People with more resources, more freedoms and abilities and so 
 
