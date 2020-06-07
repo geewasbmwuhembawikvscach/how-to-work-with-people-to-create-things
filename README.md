@@ -1,16 +1,20 @@
 # how-to-work-with-people-to-do-things
 If *you* had the *tools* to build the *best possible of all worlds*, how would you use them right now?
 
-## 'The best of all possible worlds?' what does that even mean?
-* Humans exist
-There are humans in the best of all possible worlds, because in a world without humans there is no such thing as 'best' because there is no one there judge or to prefer one thing over another.
+## What is 'the best of all possible worlds?'  How would I know if I was living in it?
+
+**We exist**
+In the best of all possible worlds we exist and each of us says what the best of all possible worlds is or is not. 
 In a world without humans, the world just is as it is. 
 
-* Human experiences matter
-In a world with humans, no two humans are alike.  Each of us has our unique experience of the world which is equally real and equally valid. 
+**Our relationships matter**
+We have relationships with eachother. 
+We talk about what we see, what we hear, what we think, what we feel.  
+We can tell whether we are in the best of all possible worlds through the experiences, thoughts, and feelings we share with eachother.
 
-* Human relationships matter
-In a world with humans, we have relationships and we communicate.  We talk about what we see, what we hear, what we think, what we feel.  By communicating about our experiences, thoughts, and feelings, we recognize ourselves in others and discover new worlds.   
+**Our experiences matter**
+No two humans are alike.  Each one of us has unique experience and a unique view of the world that matters just as much as any other. 
+The best of all possible worlds is not all rainbows and Lambos.  We will always be experiencing struggle, discomfort, pain, 
 
 In 'the best of all possible worlds' we maejke We share our experiences by communicating with eachother.  
 
