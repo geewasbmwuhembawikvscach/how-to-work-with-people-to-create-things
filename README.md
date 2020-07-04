@@ -1,3 +1,5 @@
+If you had the tools to build the best possible of all worlds, how would you use them right now?
+
 # What is 'the best of all possible worlds?' #
 * In a world without humans there is no such thing as 'best of all possible worlds.' 
 * In a world without humans, there is no 'best' because there is no one to judge or to prefer one thing over another. 
