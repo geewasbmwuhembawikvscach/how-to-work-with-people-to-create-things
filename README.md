@@ -33,3 +33,22 @@ Pricing?
 How can I use these tools?
 * The good news is it takes only three minutes (3 min) to learn about the main tool.
 * The other good news is that as you gain experience with the tools, you will be come more and more powerful in using them.
+
+
+## Tools ##
+To create the best of all possible worlds, humans need to do things, together, that don't make the world worse.  
+
+Why do humans do things?
+* According to the Fogg < https://www.behaviormodel.org/> model, humans do things when there is motivation, ability, and a prompt.
+
+Why aren't humans already doing all the things that result in the best of all possible worlds?
+* Applying the Fogg model, the solution is to generate the right motivation, develop the right abilities, and surface the right prompts.
+
+If the best of all possible worlds is one where I am not hungry, 
+
+It is not always To do things that make the world better, it helps if more than one human contributes.   understand why the world isn't already in the desired state. 
+To do things that are high-leverage, and that avoid making the world worse for other humans, it's necessary for humans to do the things 
+
+
+Conversation
+* 
