@@ -1,6 +1,8 @@
 If you had the tools to build the best possible of all worlds, how would you use them right now?
 
-# What is 'the best of all possible worlds?' #
+## FAQ ##
+
+What is 'the best of all possible worlds?'
 * In a world without humans there is no such thing as 'best of all possible worlds.' 
 * In a world without humans, there is no 'best' because there is no one to judge or to prefer one thing over another. 
 * In a world without humans, the world just is as it is.
@@ -8,10 +10,9 @@ If you had the tools to build the best possible of all worlds, how would you use
 * In a world with humans, each of us has our own unique feelings, abilities, resources.
 * In the best of all possible worlds, each human would have the freedom, ability, and sentience to be as a god, creating their own ideal of a lived experience - assuming that there is such a thing. 
 
-## Isn't the world the world already the best possible of all worlds? ##
+Isn't the world the world already the best possible of all worlds?
 * Is it for you?  If not, let's get to work!
 
-# FAQ # 
 What is this thing?
 * This is a set of tools that you can use to create a better world, here, now.
 
