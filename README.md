@@ -44,11 +44,14 @@ Why do humans do things?
 Why aren't humans already doing all the things that result in the best of all possible worlds?
 * Applying the Fogg model, the solution is to generate the right motivation, develop the right abilities, and surface the right prompts.
 
-If the best of all possible worlds is one where I am not hungry, 
-
-It is not always To do things that make the world better, it helps if more than one human contributes.   understand why the world isn't already in the desired state. 
-To do things that are high-leverage, and that avoid making the world worse for other humans, it's necessary for humans to do the things 
-
-
 Conversation
 * 
+
+
+How to Coordinate efforts of humans. 
+
+How to Work in Groups of 2-20
+https://github.com/CoMakery/self-organization-constitution
+
+Turtleocracy
+https://www.notion.so/Turtleocracy-47a6df7692bf4e95a39504a73a50a295
