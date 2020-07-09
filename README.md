@@ -34,6 +34,8 @@ How can I use these tools?
 * The good news is it takes only three minutes (3 min) to learn about the main tool.
 * The other good news is that as you gain experience with the tools, you will be come more and more powerful in using them.
 
+Background 
+* https://www.notion.so/Game-B-and-Holochain-352388be758f4356a6da1fbb7962f87c
 
 ## Tools ##
 To create the best of all possible worlds, humans need to do things, together, that don't make the world worse.  
