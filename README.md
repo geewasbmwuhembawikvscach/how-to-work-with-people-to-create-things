@@ -46,8 +46,9 @@ Why do humans do things?
 Why aren't humans already doing all the things that result in the best of all possible worlds?
 * Applying the Fogg model, the solution is to generate the right motivation, develop the right abilities, and surface the right prompts.
 
-Conversation
-* 
+How to talk to people about things. 
+ 
+https://docs.google.com/document/d/1l5rA_7zxjcTUGF0U76ItjBbzCzDCjxFQbVXFvGT3BCc/edit#heading=h.m0268z9mrsbx
 
 
 How to Coordinate efforts of humans. 
@@ -57,3 +58,5 @@ https://github.com/CoMakery/self-organization-constitution
 
 Turtleocracy
 https://www.notion.so/Turtleocracy-47a6df7692bf4e95a39504a73a50a295
+
+
